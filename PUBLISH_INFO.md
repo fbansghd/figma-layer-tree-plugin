@@ -54,18 +54,3 @@ Layer Tree for AIは、FigmaのレイヤーをAIツール向けに最適化さ�
 - デザインシステムのドキュメント化
 
 レイヤーを選択して出力ボタンを押すだけ。
-
----
-
-## Tags
-developer, export, code, AI, productivity, utility
-
-## Category
-Development
-
-## Support URL (任意)
-https://github.com/YOUR_USERNAME/layer-tree-for-ai
-
-## Privacy Policy (必要な場合)
-This plugin does not collect, store, or transmit any user data.
-All processing happens locally in your browser.
