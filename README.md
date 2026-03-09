@@ -55,6 +55,18 @@ Card (FRAME)
 - Effects (shadow, blur)
 - Component info
 
+## File Structure
+
+```
+figma-layer-tree-plugin/
+├── manifest.json   # Figma plugin manifest
+├── code.js         # Plugin main logic (runs in Figma sandbox)
+├── ui.html         # Plugin UI (tree view & JSON export)
+├── icon.png        # Plugin icon
+├── cover.png       # Plugin cover image
+└── LICENSE
+```
+
 ## License
 
 MIT
